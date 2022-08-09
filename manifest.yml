@@ -2,4 +2,4 @@
 applications:
  - name: movies-reviews-database-c49
    random-route: true
-   memory: 256M
+   memory: 90M
