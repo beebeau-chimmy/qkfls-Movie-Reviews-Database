@@ -3,3 +3,6 @@ applications:
  - name: movies-reviews-database-c49
    random-route: true
    memory: 90M
+   services:
+   - tester-cloudant
+   - tester-nlu-naturallanguage-1660030544495
